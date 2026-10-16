@@ -47,7 +47,7 @@ npm run preview    # serve o build localmente
 ```
 src/
 ├── sections/     # seções da página (Navbar, Hero, Sobre, ... , Footer)
-├── components/   # card e modal de imóvel, barra de progresso, botão de WhatsApp
+├── components/   # card e modal de imóvel, barra de progresso
 │   └── ui/       # Badge, Button, SectionLabel
 ├── data/         # site.ts (corretor e SEO) e imoveis.ts (vitrine)
 ├── hooks/        # useScrollDirection
